@@ -1,9 +1,10 @@
 # Future Ready Talent Project
 
-The Complete Responsive Food Website. This website has menu which again has varieties of categories, gallery which includes different kinds of images, blog Chef info and FAQ section
+The Complete Responsive Food Website. This website has menu which again has varieties of categories, gallery which includes different kinds of images, blog Chef info and FAQ section.
+
 This Website is deployed on Azure with help of Azure Static Web apps.
 
-**Project Link** : 
+**Project Link** : https://black-sea-04cf1be10.1.azurestaticapps.net
 
 ## Features and Functionalities
 
