@@ -15,7 +15,12 @@ This Website is deployed on Azure with help of Azure Static Web apps.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-
+### Home Page -
+![](assets/images/home.jpg)
+### About Us Page - 
+![](assets/images/about.jpg)
+### Menu Page - 
+![](assets/images/menu.jpg)
 
 
 ## Tech Stack
